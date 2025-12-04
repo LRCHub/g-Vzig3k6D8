@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "CHRONIC",
+  "base_artist": "Anya Melfissa",
+  "createdAt": "2025-12-04T07:14:42.124448Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Chronic (Intro)",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/01_The_Chronic_(Intro)_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Roach (The Chronic Outro)",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/02_The_Roach_(The_Chronic_Outro)_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chronic Infection",
+      "artist": "Legion of the Damned",
+      "has_synced": false,
+      "path": "select/03_Chronic_Infection_Legion_of_the_Damned.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bionic Chronic",
+      "artist": "Fear Factory",
+      "has_synced": false,
+      "path": "select/04_Bionic_Chronic_Fear_Factory.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chronic",
+      "artist": "Phoebe Ryan",
+      "has_synced": true,
+      "path": "select/05_Chronic_Phoebe_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Late Night (feat. DJ Quik & The Outlawz) (From 'Chronic 2000 Still Smokin')",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/06_Late_Night_(feat._DJ_Quik_&_The_Outlawz)_(From_'Chronic_2000_Still_Smokin')_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chronic Sunshine",
+      "artist": "Cosmo Pyke",
+      "has_synced": true,
+      "path": "select/07_Chronic_Sunshine_Cosmo_Pyke.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Chronic (Intro) (feat. Snoop Dogg)",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/08_The_Chronic_(Intro)_(feat._Snoop_Dogg)_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Roach (The Chronic Outro) (feat. RBX, Daz Dillinger, Lady of Rage, Emmage, Ruben & Jewell)",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/09_The_Roach_(The_Chronic_Outro)_(feat._RBX,_Daz_Dillinger,_Lady_of_Rage,_Emmage,_R_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chronic",
+      "artist": "Leprous",
+      "has_synced": true,
+      "path": "select/10_Chronic_Leprous.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Chronic",
+      "artist": "Fliptrix",
+      "has_synced": true,
+      "path": "select/11_The_Chronic_Fliptrix.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chronic Infection",
+      "artist": "Pestilence",
+      "has_synced": true,
+      "path": "select/12_Chronic_Infection_Pestilence.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chronic Generation",
+      "artist": "Chron Gen",
+      "has_synced": false,
+      "path": "select/13_Chronic_Generation_Chron_Gen.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHRONIC",
+      "artist": "Anya Melfissa",
+      "has_synced": false,
+      "path": "select/pl_01_CHRONIC_Anya_Melfissa.txt"
+    }
+  ]
+}
